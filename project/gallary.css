@@ -1,0 +1,50 @@
+.card-body{
+    /* border: 2px solid #feec37 ; */
+    position: relative;
+    background-color:#CAF4FF ;
+    /* margin-top: 20px; */
+    
+}
+
+
+#parent{
+    border: 2px solid #feec37 ;
+    border-radius: 20px;
+    margin-top: 30px;
+    background-color: #CAF4FF;
+    
+    
+}
+
+#title{
+    font-family: cursive;
+    font-weight: 600;
+    align-content: center;
+}
+
+#content{
+    align-content: center;
+}
+
+#img{
+    padding: 30px;
+}
+
+.my_btn{
+    text-decoration: none;
+    background-color: #263159;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 1.0);
+    transition: background-color 2s ease;
+    font-family: cursive;
+}
+
+.my_btn:hover{
+    background: black;
+    color: yellow;
+    transition: background-color 2s ease;
+
+}
+

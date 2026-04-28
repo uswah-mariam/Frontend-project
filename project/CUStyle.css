@@ -1,0 +1,172 @@
+/* Gernal CSS-------------------------------------------------------------------------------------- */
+*{
+    padding: 0;
+}
+body{
+background-color: rgb(235, 245, 240) ;
+}
+:hover,
+:focus,
+button{
+    text-decoration: none;
+    outline: 0;
+}
+h1{
+    font-size: 90PX;
+    font-family:Fantasy;
+    color:#feec37;
+    font-weight: 100;
+    word-spacing: 0px;
+    letter-spacing: 0.5px;
+    }
+    h2{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: #263159;
+    word-spacing: 0px;
+    letter-spacing: -2px;
+    }
+    h3{
+    font-family:Fantasy;
+    font-size:25px;
+    color: #263159;
+    font-weight: 500;
+    text-align:center; 
+    
+    }
+    h4{
+    font-family:sans-serif;
+    font-size:15px;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: center; 
+    }
+    p{
+    font-family:sans-serif;
+    font-size:20px;
+    color:#0F352B;
+    font-weight: 500;
+    text-align: justify;
+    }
+    .heading{
+    padding-bottom: -3rem;
+    padding-top:  80PX;
+    }
+    a{
+    text-decoration: none;
+    }
+/* Gernal CSS-------------------------------------------------------------------------------------- */
+
+/* Screolbar  start-------------------------------------------------------------------------------------- */
+::-webkit-scrollbar {
+    width: 10px;
+    }
+    ::-webkit-scrollbar-track{
+    background-color: #CAF4FF;
+    
+    }
+    ::-webkit-scrollbar-thumb{
+    background-color: #263159;
+    border: #CAF4FF solid 1px;
+    }
+/* scrolbar End -------------------------------------------------------------------------------------------*/
+
+.top-bannar-map{
+    width: 100%;
+    min-height: 50vh;
+    background: url(../bgimages/bannar2.png) no-repeat;
+    background-size: cover;
+    margin-top: 0;
+}
+.banner-shadow-map{
+    min-height:50vh;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0.3);
+    transition: all 1s ease-out;
+    padding:12.600rem 0 0rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+.about_sec{ 
+    background-color:#263159;
+    box-shadow: 0 4px 8px 0 #9bada2, 0 5px 10px 0 #ccd7d5;
+align-items: center;
+padding: 30px 30px;
+border-radius: 05PX;
+}
+.about_text{
+    margin-top: -10px;
+    
+}
+
+
+
+/* form */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+     /* background-color: #CAF4FF;  */
+} 
+
+
+.form-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #CAF4FF;
+    border: 1px solid #faf7f7;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #555;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #2589e6;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #072158;
+}
