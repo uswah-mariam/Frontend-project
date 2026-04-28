@@ -46,16 +46,32 @@ The project is fully responsive and works smoothly across:
 
 ---
 
+
 ## 📸 Screenshots
 
-👉 (Yahan tum apne project ke screenshots add kar sakti ho)
+### 🏠 Home Page
+![Home](images/home_page.png)
 
-Example:
+### 📅 Dairy Page
+![Dairy](images/dairy_page.png)
 
-```
-![Homepage](images/home.png)
-![Calendar](images/calendar.png)
-```
+### 📖 Journal Page
+![Journal](images/journal_page.png)
+
+### 🏠 Navbar
+![Navbar](images/navbar.png)
+
+### 🏠 Footer
+![Footer](images/footer.png)
+
+### 🏠 Gallery
+![Gallery](images/gallery_page.png)
+
+### 📅 Contact Us
+![Contact us](images/contact_us.png)
+
+### 📅 About Us
+![About us](images/about_us.png)
 
 ---
 
